@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # java-vue
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# javalsj-vue
+培训大作业-前端
+>>>>>>> 4580e3b413caa035721019e70e738f4a73a73dd4
